@@ -8,6 +8,7 @@ from models import *
 from load_text import *
 from torch.nn.utils.rnn import pad_sequence
 from tqdm import tqdm
+from cosformer import CosformerAttention 
 
 # Training settings
 parser = argparse.ArgumentParser()
