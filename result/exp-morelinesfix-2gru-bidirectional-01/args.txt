@@ -1,0 +1,19 @@
+{
+  "inputpath": "/home/data/toy/bert_feature/",
+  "outputresult": "./result/exp-morelinesfix-2gru-bidirectional-01/",
+  "epochs": 30,
+  "batch_size": 100,
+  "num_data": 1000000,
+  "lr": 1e-05,
+  "lr_warm_up_num": 1000,
+  "beta1": 0.9,
+  "beta2": 0.999,
+  "no_grad_clip": false,
+  "max_grad_norm": 5.0,
+  "use_ema": false,
+  "ema_decay": 0.9999,
+  "alpha": 0.2,
+  "dropout": 0.5,
+  "GRU_layers": 2,
+  "bidirectional": true
+}

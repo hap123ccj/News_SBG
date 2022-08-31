@@ -1,0 +1,19 @@
+{
+  "inputpath": "/home/data/toy/bert_feature_CEC/",
+  "outputresult": "./result/exp-CEC-best/",
+  "epochs": 35,
+  "batch_size": 20,
+  "num_data": 1000000,
+  "lr": 0.0002,
+  "lr_warm_up_num": 1000,
+  "beta1": 0.9,
+  "beta2": 0.999,
+  "no_grad_clip": false,
+  "max_grad_norm": 5.0,
+  "use_ema": false,
+  "ema_decay": 0.9999,
+  "alpha": 0.2,
+  "dropout": 0.0,
+  "GRU_layers": 1,
+  "bidirectional": false
+}

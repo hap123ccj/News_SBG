@@ -1,0 +1,77 @@
+Epoch: 1,loss_train: tensor(2.4873, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 1,loss_test: tensor(2.2991, device='cuda:0'),
+Epoch: 2,loss_train: tensor(2.2032, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 2,loss_test: tensor(2.1410, device='cuda:0'),
+Epoch: 3,loss_train: tensor(2.1082, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 3,loss_test: tensor(2.0916, device='cuda:0'),
+Epoch: 4,loss_train: tensor(2.0683, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 4,loss_test: tensor(2.0652, device='cuda:0'),
+Epoch: 5,loss_train: tensor(2.0426, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 5,loss_test: tensor(2.0489, device='cuda:0'),
+Epoch: 6,loss_train: tensor(2.0250, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 6,loss_test: tensor(2.0396, device='cuda:0'),
+Epoch: 7,loss_train: tensor(2.0096, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 7,loss_test: tensor(2.0304, device='cuda:0'),
+Epoch: 8,loss_train: tensor(1.9970, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 8,loss_test: tensor(2.0295, device='cuda:0'),
+Epoch: 9,loss_train: tensor(1.9874, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 9,loss_test: tensor(2.0221, device='cuda:0'),
+Epoch: 10,loss_train: tensor(1.9774, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 10,loss_test: tensor(2.0161, device='cuda:0'),
+Epoch: 11,loss_train: tensor(1.9685, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 11,loss_test: tensor(2.0176, device='cuda:0'),
+Epoch: 12,loss_train: tensor(1.9594, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 12,loss_test: tensor(2.0163, device='cuda:0'),
+Epoch: 13,loss_train: tensor(1.9506, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 13,loss_test: tensor(2.0107, device='cuda:0'),
+Epoch: 14,loss_train: tensor(1.9429, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 14,loss_test: tensor(2.0084, device='cuda:0'),
+Epoch: 15,loss_train: tensor(1.9351, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 15,loss_test: tensor(2.0106, device='cuda:0'),
+Epoch: 16,loss_train: tensor(1.9265, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 16,loss_test: tensor(2.0145, device='cuda:0'),
+Epoch: 17,loss_train: tensor(1.9185, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 17,loss_test: tensor(2.0094, device='cuda:0'),
+Epoch: 18,loss_train: tensor(1.9091, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 18,loss_test: tensor(2.0149, device='cuda:0'),
+Epoch: 19,loss_train: tensor(1.9007, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 19,loss_test: tensor(2.0179, device='cuda:0'),
+Epoch: 20,loss_train: tensor(1.8911, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 20,loss_test: tensor(2.0314, device='cuda:0'),
+Epoch: 21,loss_train: tensor(1.8824, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 21,loss_test: tensor(2.0311, device='cuda:0'),
+Epoch: 22,loss_train: tensor(1.8719, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 22,loss_test: tensor(2.0313, device='cuda:0'),
+Epoch: 23,loss_train: tensor(1.8615, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 23,loss_test: tensor(2.0305, device='cuda:0'),
+Epoch: 24,loss_train: tensor(1.8494, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 24,loss_test: tensor(2.0387, device='cuda:0'),
+Epoch: 25,loss_train: tensor(1.8394, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 25,loss_test: tensor(2.0469, device='cuda:0'),
+Epoch: 26,loss_train: tensor(1.8270, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 26,loss_test: tensor(2.0596, device='cuda:0'),
+Epoch: 27,loss_train: tensor(1.8145, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 27,loss_test: tensor(2.0738, device='cuda:0'),
+Epoch: 28,loss_train: tensor(1.8028, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 28,loss_test: tensor(2.0746, device='cuda:0'),
+Epoch: 29,loss_train: tensor(1.7906, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 29,loss_test: tensor(2.0880, device='cuda:0'),
+Epoch: 30,loss_train: tensor(1.7765, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 30,loss_test: tensor(2.1120, device='cuda:0'),
+accuracy: 0.23106050979694528
+balanced_accuracy: 0.21810952814974233
+conf_matrix: 
+[[1103   39  218   70  170  146   10  102  334   62  133  423   55   93]
+ [  47 1254   58   25  149    9   12   37   48   11  274  420  444  195]
+ [  60  432  699    9  129  417   46  403   58  158  172  137  238  130]
+ [ 268  430  104   73   83    9   16  147  179   15  252  234  219  227]
+ [ 242  440  135   15  433   34   12   42  324   77  169  451  352  213]
+ [ 586   21  276   13   44  512   14  395   32  119  427  423   35  136]
+ [  18  272  258    4    1  235   28   99   14    9   27   46   30    9]
+ [  21   56  451   18   10  333   22  601   39  104   64  822  168  317]
+ [ 617   89  242   64  500   56   15  166  540   27  255  312  166   54]
+ [ 350   58  339   14  255   50    8  379  173  144  444  207  205  318]
+ [ 280   67  221   32  135  375   18  154   41  101 1275   72  126   75]
+ [  58  273  205   19  218   12    9  329  209   19   16 1276  297   73]
+ [  21  569  281   21  145    9   18  187   69   68  273  397  496  372]
+ [ 339  428  169   34   54   57    6  378   15  120  150  253  397  658]]

@@ -1,0 +1,47 @@
+Epoch: 1,loss_train: tensor(1.8648, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 1,loss_test: tensor(0.6324, device='cuda:0'),
+Epoch: 2,loss_train: tensor(0.4072, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 2,loss_test: tensor(0.3273, device='cuda:0'),
+Epoch: 3,loss_train: tensor(0.2818, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 3,loss_test: tensor(0.2815, device='cuda:0'),
+Epoch: 4,loss_train: tensor(0.2433, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 4,loss_test: tensor(0.2567, device='cuda:0'),
+Epoch: 5,loss_train: tensor(0.2179, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 5,loss_test: tensor(0.2464, device='cuda:0'),
+Epoch: 6,loss_train: tensor(0.1987, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 6,loss_test: tensor(0.2311, device='cuda:0'),
+Epoch: 7,loss_train: tensor(0.1841, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 7,loss_test: tensor(0.2258, device='cuda:0'),
+Epoch: 8,loss_train: tensor(0.1712, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 8,loss_test: tensor(0.2200, device='cuda:0'),
+Epoch: 9,loss_train: tensor(0.1591, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 9,loss_test: tensor(0.2118, device='cuda:0'),
+Epoch: 10,loss_train: tensor(0.1487, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 10,loss_test: tensor(0.2145, device='cuda:0'),
+Epoch: 11,loss_train: tensor(0.1386, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 11,loss_test: tensor(0.2160, device='cuda:0'),
+Epoch: 12,loss_train: tensor(0.1294, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 12,loss_test: tensor(0.2052, device='cuda:0'),
+Epoch: 13,loss_train: tensor(0.1204, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 13,loss_test: tensor(0.2084, device='cuda:0'),
+Epoch: 14,loss_train: tensor(0.1127, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 14,loss_test: tensor(0.2120, device='cuda:0'),
+Epoch: 15,loss_train: tensor(0.1041, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 15,loss_test: tensor(0.2065, device='cuda:0'),
+accuracy: 0.9489133650156294
+balanced_accuracy: 0.950633150668524
+conf_matrix: 
+[[2827    3    2    1   11    0    1   36   10    2   14    2    5   44]
+ [   6 2818    0    2   13    2    1    1    0    9  116    0    6    9]
+ [   1    0 2992    0    3   32    1    4   18    0    0   23    2   12]
+ [   0    2    0 2201    3    0    0    1    7   25    5    0    0   12]
+ [   6    4    1    0 2763   10    5   15    1   24   19    0   25   66]
+ [   5    1   20    0   29 2845    8   15    4    2   36   23   38    7]
+ [   0    0    0    0    3    3 1034    0    0    0    0    0   10    0]
+ [  37    1    1    2   13    3    1 2803   14    2   27   49    9   64]
+ [  10    1   13    5    4    2    0   23 2894    0   20  107    0   24]
+ [  10    3    0   28   44    1    0    2    1 2834    4    1    2   14]
+ [  16   67    0    2   18   11    0   43   13    0 2683   50    6   63]
+ [   1    1   10    0    2    8    0   65  163    1   63 2698    0    1]
+ [   4    3    0    0   49   19   20    6    0    0    7    0 2814    4]
+ [  52    0   10   27   23    6    0   62   17    4   34    2    3 2818]]

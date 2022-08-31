@@ -1,0 +1,57 @@
+Epoch: 1,loss_train: tensor(2.4064, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 1,loss_test: tensor(1.4481, device='cuda:0'),
+Epoch: 2,loss_train: tensor(0.7601, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 2,loss_test: tensor(0.4655, device='cuda:0'),
+Epoch: 3,loss_train: tensor(0.3613, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 3,loss_test: tensor(0.3348, device='cuda:0'),
+Epoch: 4,loss_train: tensor(0.2866, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 4,loss_test: tensor(0.2951, device='cuda:0'),
+Epoch: 5,loss_train: tensor(0.2519, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 5,loss_test: tensor(0.2679, device='cuda:0'),
+Epoch: 6,loss_train: tensor(0.2296, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 6,loss_test: tensor(0.2524, device='cuda:0'),
+Epoch: 7,loss_train: tensor(0.2112, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 7,loss_test: tensor(0.2402, device='cuda:0'),
+Epoch: 8,loss_train: tensor(0.1983, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 8,loss_test: tensor(0.2291, device='cuda:0'),
+Epoch: 9,loss_train: tensor(0.1850, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 9,loss_test: tensor(0.2229, device='cuda:0'),
+Epoch: 10,loss_train: tensor(0.1742, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 10,loss_test: tensor(0.2156, device='cuda:0'),
+Epoch: 11,loss_train: tensor(0.1647, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 11,loss_test: tensor(0.2128, device='cuda:0'),
+Epoch: 12,loss_train: tensor(0.1551, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 12,loss_test: tensor(0.2051, device='cuda:0'),
+Epoch: 13,loss_train: tensor(0.1469, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 13,loss_test: tensor(0.2050, device='cuda:0'),
+Epoch: 14,loss_train: tensor(0.1388, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 14,loss_test: tensor(0.2034, device='cuda:0'),
+Epoch: 15,loss_train: tensor(0.1314, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 15,loss_test: tensor(0.2007, device='cuda:0'),
+Epoch: 16,loss_train: tensor(0.1242, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 16,loss_test: tensor(0.2106, device='cuda:0'),
+Epoch: 17,loss_train: tensor(0.1171, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 17,loss_test: tensor(0.2001, device='cuda:0'),
+Epoch: 18,loss_train: tensor(0.1104, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 18,loss_test: tensor(0.2057, device='cuda:0'),
+Epoch: 19,loss_train: tensor(0.1043, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 19,loss_test: tensor(0.2024, device='cuda:0'),
+Epoch: 20,loss_train: tensor(0.0975, device='cuda:0', grad_fn=<DivBackward0>),
+Epoch: 20,loss_test: tensor(0.2039, device='cuda:0'),
+accuracy: 0.941929909273425
+balanced_accuracy: 0.9445283166385579
+conf_matrix: 
+[[2808    5    4    1    8    5    2   29    3    3   13    3    8   66]
+ [   5 2858    0    0    6    2    2    1    0    7   87    1    4   10]
+ [   3    0 3003    2    2   26    0    5   17    1    0   15    3   11]
+ [   0    3    1 2196    3    1    0    1    0   38    4    0    0    9]
+ [   6   10    1    1 2774    8    8   10    2   26   14    2   24   53]
+ [  16    4   22    0   24 2848    2    6    8    5   43    8   40    7]
+ [   2    0    0    0    3    2 1032    0    0    0    1    0   10    0]
+ [  22    3    2    3   18    4    0 2763   25    4   30   54   12   86]
+ [   7    1   12    3    4   10    0   20 2810    1   19  186    1   29]
+ [   4    6    2    5   26    0    4    3    0 2881    2    2    2    7]
+ [  14   99    5    1   18   18    0   24    8    2 2652   55    5   71]
+ [   1    1   14    1    2    6    0   43  105    2   65 2770    0    3]
+ [   7    5    0    0   38   23   13    3    0    1    8    0 2823    5]
+ [  35    5   10   26   29    5    0   40   14   12   33    1    2 2846]]

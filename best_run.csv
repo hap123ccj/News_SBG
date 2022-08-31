@@ -1,0 +1,2 @@
+python main.py --batch_size 20 --epochs 35 --lr 2e-4  --inputpath /home/data/toy/bert_feature_CEC/ --outputresult ./result/exp-CEC-best/
+python main.py --batch_size 50 --epochs 15 --lr 1e-5  --inputpath /home/data/toy/bert_feature20/ --outputresult ./result/exp-THUCNews-best/
